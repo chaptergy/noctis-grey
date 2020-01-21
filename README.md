@@ -11,12 +11,14 @@ Based on [Noctis by aFFekopp](https://github.com/aFFekopp/noctis).
 
 ## Installation
 
-<!-- #### HACS
+#### HACS
 
-1. Go to the Community Store.
-2. Search for `Noctis Grey`.
-3. Navigate to `Noctis Grey`.
-4. Press Install. -->
+1. Install the [Home Assistant Community Store](https://github.com/custom-components/hacs) if you do not have it already.
+2. Go to the Community Store.
+3. Go to the _Settings_ tab.
+4. Add the custom repository `chaptergy/noctis-grey`
+5. Click on the newly added repository.
+6. Press Install.
 
 #### Manual Installation
 
