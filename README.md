@@ -7,7 +7,7 @@ Based on [Noctis by aFFekopp](https://github.com/aFFekopp/noctis).
 
 ## Screenshot
 
-![](https://raw.githubusercontent.com/chaptergy/noctis-grey/master/img/screenshot1.jpg)
+![](https://raw.githubusercontent.com/chaptergy/noctis-grey/master/img/screenshot1.png)
 
 ## Installation
 
