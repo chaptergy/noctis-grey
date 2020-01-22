@@ -17,7 +17,7 @@ noctis-grey:
   secondary-text-color: '#BAC0C6'
   text-medium-light-color: '#A0A2A8'
   text-medium-color: '#80828A'
-  primary-color: 'none'
+  primary-color: 'var(--accent-color)'
 
   # Main Colors
   app-header-background-color: 'var(--background-color)'
@@ -87,7 +87,7 @@ noctis-grey:
   paper-input-container-focus-color: 'var(--accent-color)'
 
   #Toast
-  #paper-toast-background-color: 'var(--paper-card-background-color)'
+  paper-toast-background-color: '#353535'
 
   # Custom Header
   ch-background: 'var(--background-color)'
