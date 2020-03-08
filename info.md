@@ -17,3 +17,18 @@ Based on [Noctis by aFFekopp](https://github.com/aFFekopp/noctis).
 2. Go to the Community Store.
 3. Click on the _Themes_ tab.
 4. Search for _Noctis Grey_ and install it.
+
+#### Manual Installation
+
+1. copy the `themes` folder into your home-assistant folder
+2. add this to your `configuration.yaml`
+
+```yaml
+frontend:
+  themes: !include_dir_merge_named themes
+```
+
+3. restart home-assistant
+4. select the theme in your user's profile (bottom left)
+
+**Optional**: I recommend installing [Custom Header](https://github.com/maykar/custom-header)
