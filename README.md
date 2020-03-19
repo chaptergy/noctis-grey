@@ -17,6 +17,12 @@ Based on [Noctis by aFFekopp](https://github.com/aFFekopp/noctis).
 2. Go to the Community Store.
 3. Click on the _Themes_ tab.
 4. Search for _Noctis Grey_ and install it.
+5. If this is the first theme you have installed though HACS, add the following to your configuration.yaml:
+
+```yaml
+frontend:
+  themes: !include_dir_merge_named themes
+```
 
 #### Manual Installation
 
