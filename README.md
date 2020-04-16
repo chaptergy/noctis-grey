@@ -3,6 +3,9 @@
 Dark Grey Theme with Blue accent Colors for [Home Assistant](https://www.home-assistant.io).  
 Based on [Noctis by aFFekopp](https://github.com/aFFekopp/noctis).
 
+[![Donate on Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/chaptergy/donate)
+<a href="https://www.buymeacoffee.com/chaptergy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Donate on Buy Me A Coffee" height="30" width="127"></a>
+
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
 
 ## Screenshot
