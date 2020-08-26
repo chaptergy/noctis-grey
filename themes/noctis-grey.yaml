@@ -34,8 +34,9 @@ noctis-grey:
   markdown-code-background-color: '#424242'
 
   # Card
-  card-background-color: 'var(--paper-card-background-color)'
-  paper-card-background-color: '#2E2E2E'
+  ha-card-background: '#2E2E2E'
+  card-background-color: 'var(--ha-card-background)'
+  paper-card-background-color: 'var(--ha-card-background)'
   ha-card-box-shadow: '3px 3px 13px -6px rgba(17,35,52,1)'
   ha-card-border-radius: '5px'
   border-color: 'none'
