@@ -19,12 +19,13 @@ noctis-grey:
   secondary-text-color: '#BAC0C6'
   text-medium-light-color: '#A0A2A8'
   text-medium-color: '#80828A'
-  primary-color: 'var(--accent-color)'
 
   # Main Colors
   app-header-background-color: 'var(--background-color)'
   accent-color: '#1A89F5'
   accent-medium-color: 'var(--accent-color)'
+  primary-color: 'var(--accent-color)'
+  light-primary-color: '#7b7d80'
 
   # Background
   background-color: '#212121'
@@ -51,7 +52,6 @@ noctis-grey:
   sidebar-selected-icon-color: 'var(--accent-color)'
   sidebar-selected-text-color: 'var(--text-color)'
   divider-color: 'var(--background-color)'
-  light-primary-color: 'var(--paper-card-background-color)'
 
   # Sliders
   paper-slider-knob-color: 'var(--accent-color)'
