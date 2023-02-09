@@ -20,6 +20,7 @@ noctis-grey:
   text-medium-light-color: '#A0A2A8'
   text-medium-color: '#80828A'
   disabled-text-color: '#626569'
+  text-light-primary-color: 'var(--text-color)'
 
   # Text Fields an Dropdowns
   mdc-text-field-fill-color: 'var(--background-color)'
@@ -102,6 +103,7 @@ noctis-grey:
   # Popups
   more-info-header-background: 'var(--secondary-background-color)'
   paper-dialog-background-color: 'var(--background-color)'
+  popup-border-radius: '5px'
 
   # Tables
   table-row-background-color: 'var(--background-color)'
