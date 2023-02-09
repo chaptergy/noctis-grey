@@ -64,6 +64,7 @@ noctis-grey:
 
   # Icons
   paper-item-icon-color: '#EBEBEB'
+  icon-color: '#EBEBEB'
   paper-item-icon-active-color: 'var(--accent-color)'
 
   # Sidebar
