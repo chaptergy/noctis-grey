@@ -1,3 +1,6 @@
+> [!WARNING] 
+> Archived in favor of [Dark Pastel](https://github.com/chaptergy/homeassistant-theme-grey-pastel), which is very similar but with more pastel colors. Because I also changed the accent color to a light orange, I did not want to release it as an update but instead as a new theme.
+
 ## Noctis Grey
 
 Dark Grey Theme with Blue accent Colors for [Home Assistant](https://www.home-assistant.io).  
